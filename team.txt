@@ -1,8 +1,4 @@
 Nathan
-<<<<<<< Updated upstream
 Eva
 Funmilola
-
-=======
 Serena
->>>>>>> Stashed changes
